@@ -1,0 +1,6 @@
+[console_scripts]
+circle = hw2.circle:main
+diamond = hw2.diamond:main
+random = hw2.random:main
+rectangle = hw2.rectangle:main
+

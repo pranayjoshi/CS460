@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+hw2/__init__.py
+hw2/circle.py
+hw2/diamond.py
+hw2/random.py
+hw2/rectangle.py
+hw2/shape_base.py
+hw2.egg-info/PKG-INFO
+hw2.egg-info/SOURCES.txt
+hw2.egg-info/dependency_links.txt
+hw2.egg-info/entry_points.txt
+hw2.egg-info/requires.txt
+hw2.egg-info/top_level.txt
+hw2.egg-info/zip-safe
+resource/hw2
