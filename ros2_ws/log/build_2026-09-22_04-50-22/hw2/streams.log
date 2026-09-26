@@ -1,0 +1,14 @@
+[0.829s] Invoking command in '/home/user/ros2_ws/build/hw2': PYTHONPATH=/home/user/ros2_ws/build/hw2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/hw2/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/ros2_ws/build/hw2/build --no-deps symlink_data
+[1.189s] running develop
+[1.419s] running egg_info
+[1.419s] creating hw2.egg-info
+[1.420s] writing manifest file 'hw2.egg-info/SOURCES.txt'
+[1.422s] writing manifest file 'hw2.egg-info/SOURCES.txt'
+[1.424s] running build_ext
+[1.425s] running symlink_data
+[1.425s] creating /home/user/ros2_ws/install/hw2/share/ament_index
+[1.426s] creating /home/user/ros2_ws/install/hw2/share/ament_index/resource_index
+[1.426s] creating /home/user/ros2_ws/install/hw2/share/ament_index/resource_index/packages
+[1.426s] symbolically linking /home/user/ros2_ws/build/hw2/resource/hw2 -> /home/user/ros2_ws/install/hw2/share/ament_index/resource_index/packages
+[1.426s] symbolically linking /home/user/ros2_ws/build/hw2/package.xml -> /home/user/ros2_ws/install/hw2/share/hw2
+[1.457s] Invoked command in '/home/user/ros2_ws/build/hw2' returned '0': PYTHONPATH=/home/user/ros2_ws/build/hw2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/hw2/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/ros2_ws/build/hw2/build --no-deps symlink_data

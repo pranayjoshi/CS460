@@ -1,0 +1,12 @@
+running develop
+running egg_info
+creating hw2.egg-info
+writing manifest file 'hw2.egg-info/SOURCES.txt'
+writing manifest file 'hw2.egg-info/SOURCES.txt'
+running build_ext
+running symlink_data
+creating /home/user/ros2_ws/install/hw2/share/ament_index
+creating /home/user/ros2_ws/install/hw2/share/ament_index/resource_index
+creating /home/user/ros2_ws/install/hw2/share/ament_index/resource_index/packages
+symbolically linking /home/user/ros2_ws/build/hw2/resource/hw2 -> /home/user/ros2_ws/install/hw2/share/ament_index/resource_index/packages
+symbolically linking /home/user/ros2_ws/build/hw2/package.xml -> /home/user/ros2_ws/install/hw2/share/hw2
